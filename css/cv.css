@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+}
+.contenedor {
+    display: flex;
+    
+}
+.text-1 {
+    margin: 0px 50px;
+}
+.img {
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+h1{
+    color: blue;
+}
+.head{
+    text-align: center;
+}
+.eloy {
+    display: flex;
+
+}
+h2{
+    color: blue;
+}
+.pie {
+    text-align: center;
+    background-color: black;
+    color: bisque;
+}
